@@ -2,6 +2,7 @@
 - I’m interested in technology, engineering (mainly mechatronics) and Biotechnology!
 - I’m currently learning Python through Harvard's Computer Science 50 (CS50 for short) courses
 - In the next 5 years, I hope to start research on how nanobots can combat disease cells such as cancer and how we can make them (both physically and how we can code them)
+- I hope to use Github as kind of a coding log like seeing how I have improved over the years, furthermore, showcasing my programming skills to the public
 
 
 <!---
