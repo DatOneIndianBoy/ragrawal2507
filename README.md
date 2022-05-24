@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ragrawal2507
 - 👀 I’m interested in technology, engineering (mainly mechatronics) and Biotechnology!
-- 🌱 I’m currently learning Python through Harvard's Computer Science 50 courses
+- 🌱 I’m currently learning Python through Harvard's Computer Science 50 (CS50 for short) courses
 
 
 <!---
